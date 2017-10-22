@@ -5,7 +5,7 @@
 
 ## Demo
 
-## Installation
+## Requirement
 `pip3 install` を使って、`sys` , `requests` , `pyperclip` をインストールしてください。
 
 ## Flow
