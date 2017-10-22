@@ -4,7 +4,7 @@
 翻訳の結果はクリップボードにコピーされるので、いちいち手を動かす必要はありません。
 
 ## Demo
-
+![demo](https://github.com/marty958/instant-translation/wiki/img/demo540.gif)
 ## Requirement
 `pip3 install` を使って、`sys` , `requests` , `pyperclip` をインストールしてください。
 
