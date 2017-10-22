@@ -5,6 +5,9 @@
 
 ## Demo
 
+## Installation
+`pip3 install` を使って、`sys` , `requests` , `pyperclip` をインストールしてください。
+
 ## Flow
 1. 起動<br>
 `python3 translate.py`
